@@ -1,0 +1,7 @@
+commands to install external module on terminal
+
+npm install react-router-dom --save
+npm install axios --save
+npm install express --save
+npm install mongoose --save
+npm install cors --save
